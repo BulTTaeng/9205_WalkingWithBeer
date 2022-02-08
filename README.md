@@ -1,1 +1,30 @@
 # 9205_WalkingWithBeer
+
+made by Jaehyeok Choi
+
+## Welcome to Jaehyeok's github!
+
+## What is the problem?
+
+![image](https://github.com/Choi-JaeHyeok-21500749/9205_WalkingWithBeer/blob/main/9205_pro.PNG)
+
+## What Algorithm should I use?
+
+Graph Algorithm , bfs.
+
+## What was the key point and the hard part?
+
+I failed a lot because I thought it is Euclidean distance. It is Manhatten distance. 
+
+Read problem cafefully!!
+
+Save all convienient store and rock festival location in vector.
+
+After that starting from start location, if is possible to go , push it in a queue.
+
+If queue's value is same with rock festival, it means it is possible.
+
+## Where can I get more help, if I need it?
+
+You can contact me through email, which is wogur7496@gmail.com.
+Thank you for visiting this github!
